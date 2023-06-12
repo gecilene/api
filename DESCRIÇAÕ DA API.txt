@@ -1,0 +1,3 @@
+Este sait tem como objetivo
+manter o usuário informado do clima,
+fuso horário, e localização.
